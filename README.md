@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+<h1 align="center"> Coin Conversor 💱</h1>
+
+<p align="center">
+  <img src="/public/images/initial-app.png" />
+</p>
+
+---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
